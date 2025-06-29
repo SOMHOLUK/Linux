@@ -1,6 +1,6 @@
 # Bandit is a game on OverTheWire.org designed to teach Linux command-line skills.
 
-<img src="images/linux.gif" alt="linux-gif" height="250"/>
+<img src="images/linux.gif" alt="linux-gif" style="width: 100%; height: auto;" />
 
 ### At the end of each level, you are presented with a password, which is used to unlock the next level.
 
